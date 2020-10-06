@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragmento LAB3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="String_Fragmento">String_Fragmento</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="abrir">Abrir</string>
+    <string name="mensaje1">Favorito Capitan America</string>
+    <string name="mensaje2">Favorito Iron Man</string>
+    <string name="emergente">Tiene que Implementar la Interfaz</string>
+</resources>
